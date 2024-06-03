@@ -241,7 +241,7 @@ const Profile = () => {
             <View style={{flexDirection:'row'}}><FontAwesome style={{marginHorizontal: 10}} name="circle-o" color={'#E5A00F'} size={20} />
             <Text style={{color:'black'}}>Approve with change</Text></View>
             <View style={{flexDirection:'row'}}><FontAwesome style={{marginHorizontal: 10}} name="circle-o" color={'#E5A00F'} size={20} />
-            <Text style={{color:'black'}}>Disapprove</Text></View>
+            <Text style={{color:'black'}}>Disapprovee</Text></View>
            </View>
             </View>
       </View>
